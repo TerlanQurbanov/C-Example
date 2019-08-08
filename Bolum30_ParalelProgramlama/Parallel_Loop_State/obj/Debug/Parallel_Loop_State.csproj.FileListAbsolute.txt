@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Loop_State\bin\Debug\Parallel_Loop_State.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Loop_State\bin\Debug\Parallel_Loop_State.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Loop_State\bin\Debug\Parallel_Loop_State.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Loop_State\obj\Debug\Parallel_Loop_State.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Loop_State\obj\Debug\Parallel_Loop_State.pdb

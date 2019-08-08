@@ -1,0 +1,6 @@
+c:\users\volkan\documents\visual studio 2017\Projects\throw_expressions\bin\Debug\throw_expressions.exe.config
+c:\users\volkan\documents\visual studio 2017\Projects\throw_expressions\bin\Debug\throw_expressions.exe
+c:\users\volkan\documents\visual studio 2017\Projects\throw_expressions\bin\Debug\throw_expressions.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\throw_expressions\obj\Debug\throw_expressions.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\throw_expressions\obj\Debug\throw_expressions.exe
+c:\users\volkan\documents\visual studio 2017\Projects\throw_expressions\obj\Debug\throw_expressions.pdb

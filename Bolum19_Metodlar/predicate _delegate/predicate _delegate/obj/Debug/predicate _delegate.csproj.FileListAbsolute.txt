@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\projeler\c#\predicate _delegate\predicate _delegate\bin\Debug\predicate _delegate.exe.config
+C:\Users\volkan\Desktop\projeler\c#\predicate _delegate\predicate _delegate\bin\Debug\predicate _delegate.exe
+C:\Users\volkan\Desktop\projeler\c#\predicate _delegate\predicate _delegate\bin\Debug\predicate _delegate.pdb
+C:\Users\volkan\Desktop\projeler\c#\predicate _delegate\predicate _delegate\obj\Debug\predicate _delegate.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\projeler\c#\predicate _delegate\predicate _delegate\obj\Debug\predicate _delegate.exe
+C:\Users\volkan\Desktop\projeler\c#\predicate _delegate\predicate _delegate\obj\Debug\predicate _delegate.pdb

@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\BeginPrint_EndPrint\bin\Debug\BeginPrint_EndPrint.exe.config

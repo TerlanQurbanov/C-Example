@@ -1,0 +1,11 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\bin\Debug\StringBuilder_Replace.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\bin\Debug\StringBuilder_Replace.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\bin\Debug\StringBuilder_Replace.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.pdb
+D:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\bin\Debug\StringBuilder_Replace.exe.config
+D:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.exe
+D:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\StringBuilder_Replace\obj\Debug\StringBuilder_Replace.pdb

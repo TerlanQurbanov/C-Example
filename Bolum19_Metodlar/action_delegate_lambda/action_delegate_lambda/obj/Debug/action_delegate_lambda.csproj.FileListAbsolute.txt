@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_lambda\action_delegate_lambda\bin\Debug\action_delegate_lambda.exe.config
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_lambda\action_delegate_lambda\bin\Debug\action_delegate_lambda.exe
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_lambda\action_delegate_lambda\bin\Debug\action_delegate_lambda.pdb
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_lambda\action_delegate_lambda\obj\Debug\action_delegate_lambda.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_lambda\action_delegate_lambda\obj\Debug\action_delegate_lambda.exe
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_lambda\action_delegate_lambda\obj\Debug\action_delegate_lambda.pdb

@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Task_StartNew_Delegate\bin\Debug\Task_StartNew_Delegate.exe.config

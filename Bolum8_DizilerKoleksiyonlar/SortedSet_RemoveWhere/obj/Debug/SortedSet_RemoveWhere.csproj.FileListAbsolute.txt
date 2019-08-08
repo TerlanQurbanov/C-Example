@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_RemoveWhere\bin\Debug\SortedSet_RemoveWhere.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_RemoveWhere\bin\Debug\SortedSet_RemoveWhere.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_RemoveWhere\bin\Debug\SortedSet_RemoveWhere.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_RemoveWhere\obj\Debug\SortedSet_RemoveWhere.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_RemoveWhere\obj\Debug\SortedSet_RemoveWhere.pdb

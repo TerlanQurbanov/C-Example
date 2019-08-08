@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\bin\Debug\Image_Rotate_And_Flip.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\bin\Debug\Image_Rotate_And_Flip.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\bin\Debug\Image_Rotate_And_Flip.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\obj\Debug\Image_Rotate_And_Flip.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\obj\Debug\Image_Rotate_And_Flip.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\obj\Debug\Image_Rotate_And_Flip.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\obj\Debug\Image_Rotate_And_Flip.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\obj\Debug\Image_Rotate_And_Flip.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Image_Rotate_And_Flip\obj\Debug\Image_Rotate_And_Flip.pdb

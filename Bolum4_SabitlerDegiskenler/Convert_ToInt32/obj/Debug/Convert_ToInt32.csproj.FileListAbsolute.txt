@@ -1,0 +1,5 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Convert_ToInt32\bin\Debug\Convert_ToInt32.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Convert_ToInt32\bin\Debug\Convert_ToInt32.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Convert_ToInt32\bin\Debug\Convert_ToInt32.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Convert_ToInt32\obj\Debug\Convert_ToInt32.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Convert_ToInt32\obj\Debug\Convert_ToInt32.pdb

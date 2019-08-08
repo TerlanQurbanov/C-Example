@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\bin\Debug\thread_basla_bitir_durdur.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\bin\Debug\thread_basla_bitir_durdur.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\bin\Debug\thread_basla_bitir_durdur.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\obj\Debug\thread_basla_bitir_durdur.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\obj\Debug\thread_basla_bitir_durdur.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\obj\Debug\thread_basla_bitir_durdur.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\obj\Debug\thread_basla_bitir_durdur.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_basla_bitir_durdur\obj\Debug\thread_basla_bitir_durdur.pdb

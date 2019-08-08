@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_or\bin\Debug\enum_or.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_or\bin\Debug\enum_or.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_or\bin\Debug\enum_or.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_or\obj\Debug\enum_or.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_or\obj\Debug\enum_or.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_or\obj\Debug\enum_or.pdb

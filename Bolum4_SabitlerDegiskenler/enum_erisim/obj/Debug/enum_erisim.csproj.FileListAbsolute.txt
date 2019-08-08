@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\bin\Debug\enum_erisim.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\bin\Debug\enum_erisim.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\bin\Debug\enum_erisim.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\obj\Debug\enum_erisim.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\obj\Debug\enum_erisim.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\obj\Debug\enum_erisim.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\obj\Debug\enum_erisim.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\obj\Debug\enum_erisim.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_erisim\obj\Debug\enum_erisim.pdb

@@ -1,0 +1,2 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Genel_Degisken\bin\Debug\Genel_Degisken.exe.config
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\Genel_Degisken\bin\Debug\Genel_Degisken.exe.config

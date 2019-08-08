@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\bin\Debug\DateTime_Equals.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\bin\Debug\DateTime_Equals.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\bin\Debug\DateTime_Equals.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\obj\Debug\DateTime_Equals.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\obj\Debug\DateTime_Equals.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\obj\Debug\DateTime_Equals.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\obj\Debug\DateTime_Equals.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Equals\obj\Debug\DateTime_Equals.pdb

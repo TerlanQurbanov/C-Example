@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_Int32", "Parse_Int32.csproj", "{6502AB95-2A59-4DEB-9A57-B179E07366CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6502AB95-2A59-4DEB-9A57-B179E07366CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6502AB95-2A59-4DEB-9A57-B179E07366CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6502AB95-2A59-4DEB-9A57-B179E07366CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6502AB95-2A59-4DEB-9A57-B179E07366CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

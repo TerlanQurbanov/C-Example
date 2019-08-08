@@ -1,0 +1,3 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Hata\bin\Debug\Sabit_Hata.exe.config
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\Sabit_Hata\bin\Debug\Sabit_Hata.exe.config
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\Sabit_Hata\obj\Debug\Sabit_Hata.csprojResolveAssemblyReference.cache

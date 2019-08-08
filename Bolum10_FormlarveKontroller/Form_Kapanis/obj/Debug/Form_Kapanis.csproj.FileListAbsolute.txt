@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\bin\Debug\Form_Kapanis.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\bin\Debug\Form_Kapanis.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\bin\Debug\Form_Kapanis.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\obj\Debug\Form_Kapanis.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\obj\Debug\Form_Kapanis.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\obj\Debug\Form_Kapanis.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\obj\Debug\Form_Kapanis.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Kapanis\obj\Debug\Form_Kapanis.pdb

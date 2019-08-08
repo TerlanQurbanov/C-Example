@@ -1,0 +1,7 @@
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\bin\Debug\Tuple_Return_MultiValue.exe.config
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\bin\Debug\Tuple_Return_MultiValue.exe
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\bin\Debug\Tuple_Return_MultiValue.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\bin\Debug\System.ValueTuple.dll
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\obj\Debug\Tuple_Return_MultiValue.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\obj\Debug\Tuple_Return_MultiValue.exe
+c:\users\volkan\documents\visual studio 2017\Projects\Tuple_Return_MultiValue\Tuple_Return_MultiValue\obj\Debug\Tuple_Return_MultiValue.pdb

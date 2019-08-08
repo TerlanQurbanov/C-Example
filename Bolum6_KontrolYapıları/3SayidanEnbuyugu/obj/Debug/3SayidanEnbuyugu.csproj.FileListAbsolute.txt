@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum5_Operatorler\3SayidanEnbuyugu\bin\Debug\3SayidanEnbuyugu.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum5_Operatorler\3SayidanEnbuyugu\bin\Debug\3SayidanEnbuyugu.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum5_Operatorler\3SayidanEnbuyugu\bin\Debug\3SayidanEnbuyugu.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum5_Operatorler\3SayidanEnbuyugu\obj\Debug\3SayidanEnbuyugu.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum5_Operatorler\3SayidanEnbuyugu\obj\Debug\3SayidanEnbuyugu.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum5_Operatorler\3SayidanEnbuyugu\obj\Debug\3SayidanEnbuyugu.pdb

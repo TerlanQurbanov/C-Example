@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\bin\Debug\Cizim_PathGradientBrush.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\bin\Debug\Cizim_PathGradientBrush.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\bin\Debug\Cizim_PathGradientBrush.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\obj\Debug\Cizim_PathGradientBrush.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\obj\Debug\Cizim_PathGradientBrush.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\obj\Debug\Cizim_PathGradientBrush.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\obj\Debug\Cizim_PathGradientBrush.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_PathGradientBrush\obj\Debug\Cizim_PathGradientBrush.pdb

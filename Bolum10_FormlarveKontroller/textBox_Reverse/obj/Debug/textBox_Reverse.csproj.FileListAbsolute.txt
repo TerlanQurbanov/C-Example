@@ -1,0 +1,11 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\bin\Debug\textBox_Reverse.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\bin\Debug\textBox_Reverse.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\bin\Debug\textBox_Reverse.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.pdb
+D:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\bin\Debug\textBox_Reverse.exe.config
+D:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.exe
+D:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Reverse\obj\Debug\textBox_Reverse.pdb

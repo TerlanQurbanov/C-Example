@@ -1,0 +1,2 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Remove\Dictionary_Remove\bin\Debug\Dictionary_Remove.exe.config
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Remove\Dictionary_Remove\bin\Debug\Dictionary_Remove.exe.config

@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\bin\Debug\FormSekil_FllRectangle.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\bin\Debug\FormSekil_FllRectangle.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\bin\Debug\FormSekil_FllRectangle.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\obj\Debug\FormSekil_FllRectangle.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\obj\Debug\FormSekil_FllRectangle.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\obj\Debug\FormSekil_FllRectangle.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\obj\Debug\FormSekil_FllRectangle.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FormSekil_FllRectangle\obj\Debug\FormSekil_FllRectangle.pdb

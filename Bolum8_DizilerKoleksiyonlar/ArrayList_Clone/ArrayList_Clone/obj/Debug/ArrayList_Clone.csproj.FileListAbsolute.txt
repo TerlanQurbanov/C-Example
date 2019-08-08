@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Clone\ArrayList_Clone\bin\Debug\ArrayList_Clone.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Clone\ArrayList_Clone\bin\Debug\ArrayList_Clone.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Clone\ArrayList_Clone\bin\Debug\ArrayList_Clone.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Clone\ArrayList_Clone\obj\Debug\ArrayList_Clone.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Clone\ArrayList_Clone\obj\Debug\ArrayList_Clone.pdb

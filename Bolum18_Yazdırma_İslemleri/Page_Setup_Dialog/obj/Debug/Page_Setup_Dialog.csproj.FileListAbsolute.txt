@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\bin\Debug\Page_Setup_Dialog.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\bin\Debug\Page_Setup_Dialog.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\bin\Debug\Page_Setup_Dialog.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\obj\Debug\Page_Setup_Dialog.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\obj\Debug\Page_Setup_Dialog.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\obj\Debug\Page_Setup_Dialog.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\obj\Debug\Page_Setup_Dialog.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\Page_Setup_Dialog\obj\Debug\Page_Setup_Dialog.pdb

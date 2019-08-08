@@ -1,0 +1,6 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\List_To_SortedSet\bin\Debug\List_To_SortedSet.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\List_To_SortedSet\bin\Debug\List_To_SortedSet.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\List_To_SortedSet\bin\Debug\List_To_SortedSet.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\List_To_SortedSet\obj\Debug\List_To_SortedSet.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\List_To_SortedSet\obj\Debug\List_To_SortedSet.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\List_To_SortedSet\obj\Debug\List_To_SortedSet.csprojResolveAssemblyReference.cache

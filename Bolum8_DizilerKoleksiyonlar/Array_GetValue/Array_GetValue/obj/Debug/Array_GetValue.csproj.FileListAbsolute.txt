@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_GetValue\Array_GetValue\bin\Debug\Array_GetValue.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_GetValue\Array_GetValue\bin\Debug\Array_GetValue.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_GetValue\Array_GetValue\bin\Debug\Array_GetValue.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_GetValue\Array_GetValue\obj\Debug\Array_GetValue.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_GetValue\Array_GetValue\obj\Debug\Array_GetValue.pdb

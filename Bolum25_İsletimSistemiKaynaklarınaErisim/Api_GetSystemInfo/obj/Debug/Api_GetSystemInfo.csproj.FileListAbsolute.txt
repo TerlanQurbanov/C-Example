@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum24_İsletimSistemiKaynaklarınaErisim\ornek\Api_GetSystemInfo\bin\Debug\Api_GetSystemInfo.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum24_İsletimSistemiKaynaklarınaErisim\ornek\Api_GetSystemInfo\bin\Debug\Api_GetSystemInfo.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum24_İsletimSistemiKaynaklarınaErisim\ornek\Api_GetSystemInfo\bin\Debug\Api_GetSystemInfo.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum24_İsletimSistemiKaynaklarınaErisim\ornek\Api_GetSystemInfo\obj\Debug\Api_GetSystemInfo.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum24_İsletimSistemiKaynaklarınaErisim\ornek\Api_GetSystemInfo\obj\Debug\Api_GetSystemInfo.pdb

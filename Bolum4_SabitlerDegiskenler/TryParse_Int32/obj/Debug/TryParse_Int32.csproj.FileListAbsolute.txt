@@ -1,0 +1,14 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_Int32\bin\Debug\TryParse_Int32.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_Int32\bin\Debug\TryParse_Int32.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_Int32\bin\Debug\TryParse_Int32.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_Int32\obj\Debug\TryParse_Int32.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_Int32\obj\Debug\TryParse_Int32.pdb
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\bin\Debug\TryParse_Int32.exe.config
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\obj\Debug\TryParse_Int32.exe
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\obj\Debug\TryParse_Int32.pdb
+C:\Users\volkan\Desktop\usbyedek\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\bin\Debug\TryParse_Int32.exe.config
+C:\Users\volkan\Desktop\usbyedek\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\bin\Debug\TryParse_Int32.exe
+C:\Users\volkan\Desktop\usbyedek\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\bin\Debug\TryParse_Int32.pdb
+C:\Users\volkan\Desktop\usbyedek\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\obj\Debug\TryParse_Int32.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\usbyedek\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\obj\Debug\TryParse_Int32.exe
+C:\Users\volkan\Desktop\usbyedek\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_Int32\obj\Debug\TryParse_Int32.pdb

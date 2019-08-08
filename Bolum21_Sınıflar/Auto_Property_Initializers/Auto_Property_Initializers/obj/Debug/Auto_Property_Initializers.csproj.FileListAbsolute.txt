@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\ornekler\Auto_Property_Initializers\Auto_Property_Initializers\bin\Debug\Auto_Property_Initializers.exe.config
+C:\Users\volkan\Desktop\ornekler\Auto_Property_Initializers\Auto_Property_Initializers\bin\Debug\Auto_Property_Initializers.exe
+C:\Users\volkan\Desktop\ornekler\Auto_Property_Initializers\Auto_Property_Initializers\bin\Debug\Auto_Property_Initializers.pdb
+C:\Users\volkan\Desktop\ornekler\Auto_Property_Initializers\Auto_Property_Initializers\obj\Debug\Auto_Property_Initializers.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\ornekler\Auto_Property_Initializers\Auto_Property_Initializers\obj\Debug\Auto_Property_Initializers.exe
+C:\Users\volkan\Desktop\ornekler\Auto_Property_Initializers\Auto_Property_Initializers\obj\Debug\Auto_Property_Initializers.pdb

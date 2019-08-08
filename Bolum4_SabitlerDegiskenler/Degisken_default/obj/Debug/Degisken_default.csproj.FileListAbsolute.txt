@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_default\bin\Debug\Degisken_default.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_default\bin\Debug\Degisken_default.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_default\bin\Debug\Degisken_default.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_default\obj\Debug\Degisken_default.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_default\obj\Debug\Degisken_default.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_default\obj\Debug\Degisken_default.pdb

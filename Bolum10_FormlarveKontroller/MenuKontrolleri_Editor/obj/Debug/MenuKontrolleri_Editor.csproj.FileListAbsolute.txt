@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\bin\Debug\MenuKontrolleri_Editor.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\bin\Debug\MenuKontrolleri_Editor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\bin\Debug\MenuKontrolleri_Editor.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\obj\Debug\MenuKontrolleri_Editor.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\obj\Debug\MenuKontrolleri_Editor.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\obj\Debug\MenuKontrolleri_Editor.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\obj\Debug\MenuKontrolleri_Editor.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\obj\Debug\MenuKontrolleri_Editor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\MenuKontrolleri_Editor\obj\Debug\MenuKontrolleri_Editor.pdb

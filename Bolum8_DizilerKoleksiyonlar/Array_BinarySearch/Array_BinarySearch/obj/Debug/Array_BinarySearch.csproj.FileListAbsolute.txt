@@ -1,0 +1,11 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_BinarySearch\Array_BinarySearch\bin\Debug\Array_BinarySearch.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_BinarySearch\Array_BinarySearch\bin\Debug\Array_BinarySearch.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_BinarySearch\Array_BinarySearch\bin\Debug\Array_BinarySearch.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_BinarySearch\Array_BinarySearch\obj\Debug\Array_BinarySearch.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_BinarySearch\Array_BinarySearch\obj\Debug\Array_BinarySearch.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum8_DizilerKoleksiyonlar\Array_BinarySearch\Array_BinarySearch\bin\Debug\Array_BinarySearch.exe.config
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum8_DizilerKoleksiyonlar\Array_BinarySearch\Array_BinarySearch\obj\Debug\Array_BinarySearch.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum8_DizilerKoleksiyonlar\Array_BinarySearch\Array_BinarySearch\obj\Debug\Array_BinarySearch.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum8_DizilerKoleksiyonlar\Array_BinarySearch\Array_BinarySearch\bin\Debug\Array_BinarySearch.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum8_DizilerKoleksiyonlar\Array_BinarySearch\Array_BinarySearch\bin\Debug\Array_BinarySearch.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum8_DizilerKoleksiyonlar\Array_BinarySearch\Array_BinarySearch\obj\Debug\Array_BinarySearch.csprojResolveAssemblyReference.cache

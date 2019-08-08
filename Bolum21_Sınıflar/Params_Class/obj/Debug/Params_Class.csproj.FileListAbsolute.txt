@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\bin\Debug\Params_Class.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\bin\Debug\Params_Class.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\bin\Debug\Params_Class.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\obj\Debug\Params_Class.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\obj\Debug\Params_Class.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\obj\Debug\Params_Class.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\obj\Debug\Params_Class.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\Params_Class\obj\Debug\Params_Class.pdb

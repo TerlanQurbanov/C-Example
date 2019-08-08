@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\list_To_ArrayList\list_To_ArrayList\bin\Debug\list_To_ArrayList.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\list_To_ArrayList\list_To_ArrayList\bin\Debug\list_To_ArrayList.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\list_To_ArrayList\list_To_ArrayList\bin\Debug\list_To_ArrayList.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\list_To_ArrayList\list_To_ArrayList\obj\Debug\list_To_ArrayList.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\list_To_ArrayList\list_To_ArrayList\obj\Debug\list_To_ArrayList.pdb

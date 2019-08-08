@@ -1,0 +1,6 @@
+E:\volkan\vs2017_ornek\local_function\local_function\bin\Debug\local_function.exe.config
+E:\volkan\vs2017_ornek\local_function\local_function\bin\Debug\local_function.exe
+E:\volkan\vs2017_ornek\local_function\local_function\bin\Debug\local_function.pdb
+E:\volkan\vs2017_ornek\local_function\local_function\obj\Debug\local_function.csprojResolveAssemblyReference.cache
+E:\volkan\vs2017_ornek\local_function\local_function\obj\Debug\local_function.exe
+E:\volkan\vs2017_ornek\local_function\local_function\obj\Debug\local_function.pdb

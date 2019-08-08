@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\bin\Debug\sealed_class.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\obj\Debug\sealed_class.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\obj\Debug\sealed_class.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\obj\Debug\sealed_class.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\bin\Debug\sealed_class.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\bin\Debug\sealed_class.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\obj\Debug\sealed_class.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\sealed_class\obj\Debug\sealed_class.pdb

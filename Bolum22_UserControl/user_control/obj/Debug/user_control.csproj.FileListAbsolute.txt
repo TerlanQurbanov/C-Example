@@ -1,0 +1,6 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum21_UserControl\ornek\user_control\bin\Debug\user_control.dll
+E:\kitaplar\c#\C#5\Bölümler\Bolum21_UserControl\ornek\user_control\bin\Debug\user_control.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum21_UserControl\ornek\user_control\obj\Debug\user_control.UserControl1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum21_UserControl\ornek\user_control\obj\Debug\user_control.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum21_UserControl\ornek\user_control\obj\Debug\user_control.dll
+E:\kitaplar\c#\C#5\Bölümler\Bolum21_UserControl\ornek\user_control\obj\Debug\user_control.pdb

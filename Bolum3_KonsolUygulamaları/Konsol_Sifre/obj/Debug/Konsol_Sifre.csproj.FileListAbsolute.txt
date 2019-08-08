@@ -1,0 +1,6 @@
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Sifre\bin\Debug\Konsol_Sifre.exe.config
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Sifre\bin\Debug\Konsol_Sifre.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Sifre\bin\Debug\Konsol_Sifre.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Sifre\obj\Debug\Konsol_Sifre.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Sifre\obj\Debug\Konsol_Sifre.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Sifre\obj\Debug\Konsol_Sifre.pdb

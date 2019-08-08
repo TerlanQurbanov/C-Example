@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum14_Matematiksel_Metodlar\ornek\BigInteger_Ozellikler\bin\Debug\BigInteger_Ozellikler.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum14_Matematiksel_Metodlar\ornek\BigInteger_Ozellikler\bin\Debug\BigInteger_Ozellikler.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum14_Matematiksel_Metodlar\ornek\BigInteger_Ozellikler\bin\Debug\BigInteger_Ozellikler.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum14_Matematiksel_Metodlar\ornek\BigInteger_Ozellikler\obj\Debug\BigInteger_Ozellikler.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum14_Matematiksel_Metodlar\ornek\BigInteger_Ozellikler\obj\Debug\BigInteger_Ozellikler.pdb

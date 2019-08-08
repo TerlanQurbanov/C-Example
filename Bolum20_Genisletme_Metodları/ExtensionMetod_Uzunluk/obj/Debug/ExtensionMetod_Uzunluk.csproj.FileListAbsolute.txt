@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_Uzunluk\bin\Debug\ExtensionMetod_Uzunluk.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_Uzunluk\bin\Debug\ExtensionMetod_Uzunluk.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_Uzunluk\bin\Debug\ExtensionMetod_Uzunluk.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_Uzunluk\obj\Debug\ExtensionMetod_Uzunluk.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_Uzunluk\obj\Debug\ExtensionMetod_Uzunluk.pdb

@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\bin\Debug\if_sayi_tahmin.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\bin\Debug\if_sayi_tahmin.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\bin\Debug\if_sayi_tahmin.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\obj\Debug\if_sayi_tahmin.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\obj\Debug\if_sayi_tahmin.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\obj\Debug\if_sayi_tahmin.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\obj\Debug\if_sayi_tahmin.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\obj\Debug\if_sayi_tahmin.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sayi_tahmin\obj\Debug\if_sayi_tahmin.pdb

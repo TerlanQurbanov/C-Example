@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\bin\Debug\DrawString_Format.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\bin\Debug\DrawString_Format.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\bin\Debug\DrawString_Format.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\obj\Debug\DrawString_Format.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\obj\Debug\DrawString_Format.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\obj\Debug\DrawString_Format.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\obj\Debug\DrawString_Format.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\DrawString_Format\obj\Debug\DrawString_Format.pdb

@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedList_IndexOf\SortedList_IndexOf\bin\Debug\SortedList_IndexOf.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedList_IndexOf\SortedList_IndexOf\bin\Debug\SortedList_IndexOf.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedList_IndexOf\SortedList_IndexOf\bin\Debug\SortedList_IndexOf.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedList_IndexOf\SortedList_IndexOf\obj\Debug\SortedList_IndexOf.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedList_IndexOf\SortedList_IndexOf\obj\Debug\SortedList_IndexOf.pdb

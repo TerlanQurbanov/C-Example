@@ -1,0 +1,10 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\aktif_pasif_dll\bin\Debug\aktif_pasif_dll.XML
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\aktif_pasif_dll\bin\Debug\aktif_pasif_dll.dll
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\aktif_pasif_dll\bin\Debug\aktif_pasif_dll.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\aktif_pasif_dll\obj\Debug\aktif_pasif_dll.dll
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\aktif_pasif_dll\obj\Debug\aktif_pasif_dll.pdb
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\aktif_pasif_dll\bin\Debug\aktif_pasif_dll.XML
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\aktif_pasif_dll\bin\Debug\aktif_pasif_dll.dll
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\aktif_pasif_dll\bin\Debug\aktif_pasif_dll.pdb
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\aktif_pasif_dll\obj\Debug\aktif_pasif_dll.dll
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\aktif_pasif_dll\obj\Debug\aktif_pasif_dll.pdb

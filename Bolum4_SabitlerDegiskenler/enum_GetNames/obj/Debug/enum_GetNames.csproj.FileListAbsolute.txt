@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\bin\Debug\enum_GetNames.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\bin\Debug\enum_GetNames.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\bin\Debug\enum_GetNames.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\obj\Debug\enum_GetNames.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\obj\Debug\enum_GetNames.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\obj\Debug\enum_GetNames.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\obj\Debug\enum_GetNames.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\obj\Debug\enum_GetNames.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetNames\obj\Debug\enum_GetNames.pdb

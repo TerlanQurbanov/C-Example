@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_IsArray\Array_IsArray\bin\Debug\Array_IsArray.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_IsArray\Array_IsArray\bin\Debug\Array_IsArray.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_IsArray\Array_IsArray\bin\Debug\Array_IsArray.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_IsArray\Array_IsArray\obj\Debug\Array_IsArray.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Array_IsArray\Array_IsArray\obj\Debug\Array_IsArray.pdb

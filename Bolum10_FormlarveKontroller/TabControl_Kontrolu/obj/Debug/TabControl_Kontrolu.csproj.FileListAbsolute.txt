@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_Kontrolu\bin\Debug\TabControl_Kontrolu.exe.config

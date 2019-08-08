@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_First_Last\LinkedList_First_Last\bin\Debug\LinkedList_First_Last.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_First_Last\LinkedList_First_Last\bin\Debug\LinkedList_First_Last.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_First_Last\LinkedList_First_Last\bin\Debug\LinkedList_First_Last.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_First_Last\LinkedList_First_Last\obj\Debug\LinkedList_First_Last.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_First_Last\LinkedList_First_Last\obj\Debug\LinkedList_First_Last.pdb

@@ -1,0 +1,6 @@
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Cikis\bin\Debug\Konsol_Cikis.exe.config
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Cikis\bin\Debug\Konsol_Cikis.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Cikis\bin\Debug\Konsol_Cikis.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Cikis\obj\Debug\Konsol_Cikis.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Cikis\obj\Debug\Konsol_Cikis.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum3_KonsolUygulamaları\Konsol_Cikis\obj\Debug\Konsol_Cikis.pdb

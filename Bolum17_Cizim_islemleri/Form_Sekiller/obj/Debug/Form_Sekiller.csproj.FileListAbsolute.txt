@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\bin\Debug\Form_Sekiller.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\bin\Debug\Form_Sekiller.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\bin\Debug\Form_Sekiller.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\obj\Debug\Form_Sekiller.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\obj\Debug\Form_Sekiller.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\obj\Debug\Form_Sekiller.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\obj\Debug\Form_Sekiller.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Form_Sekiller\obj\Debug\Form_Sekiller.pdb

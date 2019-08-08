@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_parse\bin\Debug\enum_parse.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_parse\bin\Debug\enum_parse.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_parse\bin\Debug\enum_parse.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_parse\obj\Debug\enum_parse.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_parse\obj\Debug\enum_parse.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_parse\obj\Debug\enum_parse.pdb

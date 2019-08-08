@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_GetSystemInfo", "Api_GetSystemInfo.csproj", "{FB254768-3E09-44AF-9808-6E70368C113A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB254768-3E09-44AF-9808-6E70368C113A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB254768-3E09-44AF-9808-6E70368C113A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB254768-3E09-44AF-9808-6E70368C113A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB254768-3E09-44AF-9808-6E70368C113A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

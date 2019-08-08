@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\bin\Debug\LinkLabel_Kontrolu.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\bin\Debug\LinkLabel_Kontrolu.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\bin\Debug\LinkLabel_Kontrolu.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\obj\Debug\LinkLabel_Kontrolu.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\obj\Debug\LinkLabel_Kontrolu.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\obj\Debug\LinkLabel_Kontrolu.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\obj\Debug\LinkLabel_Kontrolu.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\LinkLabel_Kontrolu\obj\Debug\LinkLabel_Kontrolu.pdb

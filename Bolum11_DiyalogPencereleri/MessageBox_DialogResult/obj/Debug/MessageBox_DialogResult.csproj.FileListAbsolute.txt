@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\bin\Debug\MessageBox_DialogResult.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\bin\Debug\MessageBox_DialogResult.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\bin\Debug\MessageBox_DialogResult.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\obj\Debug\MessageBox_DialogResult.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\obj\Debug\MessageBox_DialogResult.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\obj\Debug\MessageBox_DialogResult.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\obj\Debug\MessageBox_DialogResult.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_DialogResult\obj\Debug\MessageBox_DialogResult.pdb

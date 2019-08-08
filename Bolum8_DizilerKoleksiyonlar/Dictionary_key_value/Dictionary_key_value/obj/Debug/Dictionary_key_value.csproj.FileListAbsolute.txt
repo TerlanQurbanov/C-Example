@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\bin\Debug\Dictionary_key_value.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\bin\Debug\Dictionary_key_value.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\bin\Debug\Dictionary_key_value.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\obj\Debug\Dictionary_key_value.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\obj\Debug\Dictionary_key_value.pdb
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\bin\Debug\Dictionary_key_value.exe.config
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\obj\Debug\Dictionary_key_value.exe
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_key_value\Dictionary_key_value\obj\Debug\Dictionary_key_value.pdb

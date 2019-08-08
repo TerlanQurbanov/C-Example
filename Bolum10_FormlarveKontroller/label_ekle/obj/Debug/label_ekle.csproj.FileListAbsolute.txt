@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\bin\Debug\label_ekle.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\bin\Debug\label_ekle.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\bin\Debug\label_ekle.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\obj\Debug\label_ekle.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\obj\Debug\label_ekle.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\obj\Debug\label_ekle.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\obj\Debug\label_ekle.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\label_ekle\obj\Debug\label_ekle.pdb

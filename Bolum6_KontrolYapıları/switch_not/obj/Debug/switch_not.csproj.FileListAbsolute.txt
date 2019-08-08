@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\bin\Debug\switch_not.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\bin\Debug\switch_not.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\bin\Debug\switch_not.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\obj\Debug\switch_not.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\obj\Debug\switch_not.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\obj\Debug\switch_not.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\obj\Debug\switch_not.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\obj\Debug\switch_not.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_not\obj\Debug\switch_not.pdb

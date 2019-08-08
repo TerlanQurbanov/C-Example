@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="mydb" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\ProjectsV12;Initial Catalog=mydb;Integrated Security=True;Connect Timeout=30" SettingsObjectName="linq2sql.Properties.Settings" SettingsPropertyName="mydbConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblnot" Member="tblnots">
+    <Type Name="tblnot">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ogrnumara" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dersadi" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="sinavnot" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblogr" Member="tblogrs">
+    <Type Name="tblogr">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="isim" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="soyisim" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="numara" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sinif" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

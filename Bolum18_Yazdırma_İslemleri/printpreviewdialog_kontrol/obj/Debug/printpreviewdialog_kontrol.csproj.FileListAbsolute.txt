@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\bin\Debug\printpreviewdialog_kontrol.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\bin\Debug\printpreviewdialog_kontrol.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\bin\Debug\printpreviewdialog_kontrol.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\obj\Debug\printpreviewdialog_kontrol.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\obj\Debug\printpreviewdialog_kontrol.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\obj\Debug\printpreviewdialog_kontrol.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\obj\Debug\printpreviewdialog_kontrol.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\obj\Debug\printpreviewdialog_kontrol.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\printpreviewdialog_kontrol\obj\Debug\printpreviewdialog_kontrol.csprojResolveAssemblyReference.cache

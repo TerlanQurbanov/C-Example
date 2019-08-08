@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\bin\Debug\DateTime_Compare.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\bin\Debug\DateTime_Compare.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\bin\Debug\DateTime_Compare.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\obj\Debug\DateTime_Compare.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\obj\Debug\DateTime_Compare.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\obj\Debug\DateTime_Compare.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\obj\Debug\DateTime_Compare.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\DateTime_Compare\obj\Debug\DateTime_Compare.pdb

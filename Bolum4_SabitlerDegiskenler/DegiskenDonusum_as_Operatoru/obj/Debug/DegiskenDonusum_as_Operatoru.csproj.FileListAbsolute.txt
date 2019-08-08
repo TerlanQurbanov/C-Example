@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\bin\Debug\DegiskenDonusum_as_Operatoru.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\bin\Debug\DegiskenDonusum_as_Operatoru.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\bin\Debug\DegiskenDonusum_as_Operatoru.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\obj\Debug\DegiskenDonusum_as_Operatoru.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\obj\Debug\DegiskenDonusum_as_Operatoru.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\obj\Debug\DegiskenDonusum_as_Operatoru.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\obj\Debug\DegiskenDonusum_as_Operatoru.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\obj\Debug\DegiskenDonusum_as_Operatoru.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\DegiskenDonusum_as_Operatoru\obj\Debug\DegiskenDonusum_as_Operatoru.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>aktif_pasif_dll</name>
+    </assembly>
+    <members>
+        <member name="T:aktif_pasif_dll.snf_aktif_pasif">
+            <summary>
+            snf_aktif_pasif sınıfı form üzerindeki butonların
+            aktif ve pasif yapılabilmesi için gerekli metodları sunar.
+            </summary>
+        </member>
+        <member name="M:aktif_pasif_dll.snf_aktif_pasif.mtd_aktif(System.Windows.Forms.Button[])">
+             <summary>
+             Parametre olarak gelen buton dizisini (btn) aktif 
+             yapmak için kullanılır.
+             </summary>
+             <param name="btn">Aktif yapılacak buton dizisi. Örneğin 
+            "Button1,Button2" şeklinde</param>
+             <remarks></remarks>
+        </member>
+        <member name="M:aktif_pasif_dll.snf_aktif_pasif.mtd_pasif(System.Windows.Forms.Button[])">
+             <summary>
+             Parametre olarak gelen buton dizisini (btn) pasif 
+             yapmak için kullanılır.        
+             </summary>
+             <param name="btn">Pasif yapılacak buton dizisi. Örneğin 
+            "Button1,Button2" şeklinde</param>
+             <remarks></remarks>
+        </member>
+    </members>
+</doc>

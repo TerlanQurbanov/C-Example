@@ -1,0 +1,8 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\bin\Debug\enum_GetValues.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\bin\Debug\enum_GetValues.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\bin\Debug\enum_GetValues.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\obj\Debug\enum_GetValues.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\obj\Debug\enum_GetValues.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\obj\Debug\enum_GetValues.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\obj\Debug\enum_GetValues.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_GetValues\obj\Debug\enum_GetValues.pdb

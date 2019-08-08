@@ -1,0 +1,10 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\bin\Debug\akt_pas_dll_kullan.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\bin\Debug\akt_pas_dll_kullan.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\bin\Debug\akt_pas_dll_kullan.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\bin\Debug\aktif_pasif_dll.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\obj\Debug\akt_pas_dll_kullan.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\obj\Debug\akt_pas_dll_kullan.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\obj\Debug\akt_pas_dll_kullan.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\obj\Debug\akt_pas_dll_kullan.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\obj\Debug\akt_pas_dll_kullan.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum20_Sınıflar\ornek\akt_pas_dll_kullan\obj\Debug\akt_pas_dll_kullan.pdb

@@ -1,0 +1,5 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\explicit(acik)_donusum\bin\Debug\explicit(acik)_donusum.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\explicit(acik)_donusum\bin\Debug\explicit(acik)_donusum.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\explicit(acik)_donusum\bin\Debug\explicit(acik)_donusum.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\explicit(acik)_donusum\obj\Debug\explicit(acik)_donusum.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\explicit(acik)_donusum\obj\Debug\explicit(acik)_donusum.pdb

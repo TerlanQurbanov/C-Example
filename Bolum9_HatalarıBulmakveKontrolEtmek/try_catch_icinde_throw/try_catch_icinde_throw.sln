@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_catch_icinde_throw", "try_catch_icinde_throw.csproj", "{BBDDBFE2-7AC1-4BA7-91F8-B8AC03125E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDDBFE2-7AC1-4BA7-91F8-B8AC03125E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDDBFE2-7AC1-4BA7-91F8-B8AC03125E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDDBFE2-7AC1-4BA7-91F8-B8AC03125E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDDBFE2-7AC1-4BA7-91F8-B8AC03125E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

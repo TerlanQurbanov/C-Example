@@ -1,0 +1,8 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\bin\Debug\Degisken_TypeOf.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\bin\Debug\Degisken_TypeOf.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\bin\Debug\Degisken_TypeOf.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\obj\Debug\Degisken_TypeOf.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\obj\Debug\Degisken_TypeOf.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\obj\Debug\Degisken_TypeOf.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\obj\Debug\Degisken_TypeOf.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_TypeOf\obj\Debug\Degisken_TypeOf.pdb

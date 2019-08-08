@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\bin\Debug\Form_CloseReason.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\bin\Debug\Form_CloseReason.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\bin\Debug\Form_CloseReason.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\obj\Debug\Form_CloseReason.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\obj\Debug\Form_CloseReason.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\obj\Debug\Form_CloseReason.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\obj\Debug\Form_CloseReason.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_CloseReason\obj\Debug\Form_CloseReason.pdb

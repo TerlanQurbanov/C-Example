@@ -1,0 +1,6 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32\bin\Debug\ExtensionMetod_ToInt32.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32\bin\Debug\ExtensionMetod_ToInt32.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32\bin\Debug\ExtensionMetod_ToInt32.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32\obj\Debug\ExtensionMetod_ToInt32.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32\obj\Debug\ExtensionMetod_ToInt32.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32\obj\Debug\ExtensionMetod_ToInt32.pdb

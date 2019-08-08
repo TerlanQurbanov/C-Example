@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\bin\Debug\Form_Acilis.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\bin\Debug\Form_Acilis.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\bin\Debug\Form_Acilis.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\obj\Debug\Form_Acilis.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\obj\Debug\Form_Acilis.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\obj\Debug\Form_Acilis.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\obj\Debug\Form_Acilis.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_Acilis\obj\Debug\Form_Acilis.pdb

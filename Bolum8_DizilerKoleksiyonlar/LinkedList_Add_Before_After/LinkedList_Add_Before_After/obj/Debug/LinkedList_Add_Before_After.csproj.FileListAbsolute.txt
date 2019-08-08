@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_Add_Before_After\LinkedList_Add_Before_After\bin\Debug\LinkedList_Add_Before_After.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_Add_Before_After\LinkedList_Add_Before_After\bin\Debug\LinkedList_Add_Before_After.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_Add_Before_After\LinkedList_Add_Before_After\bin\Debug\LinkedList_Add_Before_After.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_Add_Before_After\LinkedList_Add_Before_After\obj\Debug\LinkedList_Add_Before_After.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\LinkedList_Add_Before_After\LinkedList_Add_Before_After\obj\Debug\LinkedList_Add_Before_After.pdb

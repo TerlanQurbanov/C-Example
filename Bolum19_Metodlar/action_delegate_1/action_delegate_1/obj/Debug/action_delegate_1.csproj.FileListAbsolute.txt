@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\bin\Debug\action_delegate_1.exe.config
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\bin\Debug\action_delegate_1.exe
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\bin\Debug\action_delegate_1.pdb
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\obj\Debug\action_delegate_1.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\obj\Debug\action_delegate_1.Form1.resources
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\obj\Debug\action_delegate_1.Properties.Resources.resources
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\obj\Debug\action_delegate_1.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\obj\Debug\action_delegate_1.exe
+C:\Users\volkan\Desktop\projeler\c#\action_delegate_1\action_delegate_1\obj\Debug\action_delegate_1.pdb

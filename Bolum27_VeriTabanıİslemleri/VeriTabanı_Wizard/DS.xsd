@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS" targetNamespace="http://tempuri.org/DS.xsd" xmlns:mstns="http://tempuri.org/DS.xsd" xmlns="http://tempuri.org/DS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CS" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CS (Settings)" PropertyReference="ApplicationSettings.VeriTabanı_Wizard.Properties.Settings.GlobalReference.Default.CS" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="sozcuklerTableAdapter" GeneratorDataComponentClassName="sozcuklerTableAdapter" Name="sozcukler" UserDataComponentName="sozcuklerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CS (Settings)" DbObjectName="sozcukler" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ingilizce, turkce FROM sozcukler</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ingilizce" DataSetColumn="ingilizce" />
+              <Mapping SourceColumn="turkce" DataSetColumn="turkce" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DS" msprop:Generator_UserDSName="DS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="sozcukler" msprop:Generator_TableClassName="sozcuklerDataTable" msprop:Generator_TableVarName="tablesozcukler" msprop:Generator_TablePropName="sozcukler" msprop:Generator_RowDeletingName="sozcuklerRowDeleting" msprop:Generator_RowChangingName="sozcuklerRowChanging" msprop:Generator_RowEvHandlerName="sozcuklerRowChangeEventHandler" msprop:Generator_RowDeletedName="sozcuklerRowDeleted" msprop:Generator_UserTableName="sozcukler" msprop:Generator_RowChangedName="sozcuklerRowChanged" msprop:Generator_RowEvArgName="sozcuklerRowChangeEvent" msprop:Generator_RowClassName="sozcuklerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ingilizce" msprop:Generator_ColumnVarNameInTable="columningilizce" msprop:Generator_ColumnPropNameInRow="ingilizce" msprop:Generator_ColumnPropNameInTable="ingilizceColumn" msprop:Generator_UserColumnName="ingilizce" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="turkce" msprop:Generator_ColumnVarNameInTable="columnturkce" msprop:Generator_ColumnPropNameInRow="turkce" msprop:Generator_ColumnPropNameInTable="turkceColumn" msprop:Generator_UserColumnName="turkce" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

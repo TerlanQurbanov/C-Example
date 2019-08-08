@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\bin\Debug\Strings_SubString_SiteAdresi.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\bin\Debug\Strings_SubString_SiteAdresi.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\bin\Debug\Strings_SubString_SiteAdresi.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\obj\Debug\Strings_SubString_SiteAdresi.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\obj\Debug\Strings_SubString_SiteAdresi.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\obj\Debug\Strings_SubString_SiteAdresi.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\obj\Debug\Strings_SubString_SiteAdresi.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_SubString_SiteAdresi\obj\Debug\Strings_SubString_SiteAdresi.pdb

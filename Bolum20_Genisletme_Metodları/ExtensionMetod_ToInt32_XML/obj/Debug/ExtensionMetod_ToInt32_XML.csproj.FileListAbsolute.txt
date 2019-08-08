@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\ExtensionMetod_ToInt32_XML\bin\Debug\ExtensionMetod_ToInt32_XML.exe.config

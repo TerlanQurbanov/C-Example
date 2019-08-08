@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime_Now_CustomDateTimeFormat", "DateTime_Now_CustomDateTimeFormat.csproj", "{B5C1A014-D1BE-4244-9A11-7D529E2BD2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C1A014-D1BE-4244-9A11-7D529E2BD2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C1A014-D1BE-4244-9A11-7D529E2BD2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C1A014-D1BE-4244-9A11-7D529E2BD2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C1A014-D1BE-4244-9A11-7D529E2BD2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

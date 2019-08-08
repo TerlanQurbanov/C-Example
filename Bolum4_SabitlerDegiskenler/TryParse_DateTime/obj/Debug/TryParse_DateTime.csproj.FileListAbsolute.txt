@@ -1,0 +1,17 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\bin\Debug\TryParse_DateTime.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\bin\Debug\TryParse_DateTime.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\bin\Debug\TryParse_DateTime.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\obj\Debug\TryParse_DateTime.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\obj\Debug\TryParse_DateTime.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\obj\Debug\TryParse_DateTime.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\obj\Debug\TryParse_DateTime.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\TryParse_DateTime\obj\Debug\TryParse_DateTime.pdb
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\bin\Debug\TryParse_DateTime.exe.config
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\obj\Debug\TryParse_DateTime.exe
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\obj\Debug\TryParse_DateTime.pdb
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\bin\Debug\TryParse_DateTime.exe
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\bin\Debug\TryParse_DateTime.pdb
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\obj\Debug\TryParse_DateTime.csprojResolveAssemblyReference.cache
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\obj\Debug\TryParse_DateTime.Form1.resources
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\obj\Debug\TryParse_DateTime.Properties.Resources.resources
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\TryParse_DateTime\obj\Debug\TryParse_DateTime.csproj.GenerateResource.Cache

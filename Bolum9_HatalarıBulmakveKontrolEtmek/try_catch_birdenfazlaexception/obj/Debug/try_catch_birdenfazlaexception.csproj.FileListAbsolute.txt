@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_birdenfazlaexception\bin\Debug\try_catch_birdenfazlaexception.exe.config

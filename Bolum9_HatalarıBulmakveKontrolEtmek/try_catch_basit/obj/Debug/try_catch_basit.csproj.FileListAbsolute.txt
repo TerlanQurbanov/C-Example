@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\bin\Debug\try_catch_basit.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\bin\Debug\try_catch_basit.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\bin\Debug\try_catch_basit.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\obj\Debug\try_catch_basit.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\obj\Debug\try_catch_basit.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\obj\Debug\try_catch_basit.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\obj\Debug\try_catch_basit.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\obj\Debug\try_catch_basit.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum9_HatalarıBulmakveKontrolEtmek\ornek\try_catch_basit\obj\Debug\try_catch_basit.pdb

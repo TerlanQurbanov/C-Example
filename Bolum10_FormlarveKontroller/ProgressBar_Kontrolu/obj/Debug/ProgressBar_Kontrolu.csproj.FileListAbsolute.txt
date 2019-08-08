@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\bin\Debug\ProgressBar_Kontrolu.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\bin\Debug\ProgressBar_Kontrolu.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\bin\Debug\ProgressBar_Kontrolu.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\obj\Debug\ProgressBar_Kontrolu.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\obj\Debug\ProgressBar_Kontrolu.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\obj\Debug\ProgressBar_Kontrolu.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\obj\Debug\ProgressBar_Kontrolu.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\ProgressBar_Kontrolu\obj\Debug\ProgressBar_Kontrolu.pdb

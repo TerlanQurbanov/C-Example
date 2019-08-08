@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\projeler\c#\func_delegate\func_delegate\bin\Debug\func_delegate.exe.config
+C:\Users\volkan\Desktop\projeler\c#\func_delegate\func_delegate\bin\Debug\func_delegate.exe
+C:\Users\volkan\Desktop\projeler\c#\func_delegate\func_delegate\bin\Debug\func_delegate.pdb
+C:\Users\volkan\Desktop\projeler\c#\func_delegate\func_delegate\obj\Debug\func_delegate.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\projeler\c#\func_delegate\func_delegate\obj\Debug\func_delegate.exe
+C:\Users\volkan\Desktop\projeler\c#\func_delegate\func_delegate\obj\Debug\func_delegate.pdb

@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_select_distintct\bin\Debug\linq_select_distintct.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_select_distintct\bin\Debug\linq_select_distintct.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_select_distintct\bin\Debug\linq_select_distintct.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_select_distintct\obj\Debug\linq_select_distintct.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_select_distintct\obj\Debug\linq_select_distintct.pdb

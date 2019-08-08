@@ -1,0 +1,6 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Insert\ArrayList_Insert\bin\Debug\ArrayList_Insert.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Insert\ArrayList_Insert\bin\Debug\ArrayList_Insert.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Insert\ArrayList_Insert\bin\Debug\ArrayList_Insert.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Insert\ArrayList_Insert\obj\Debug\ArrayList_Insert.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Insert\ArrayList_Insert\obj\Debug\ArrayList_Insert.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Insert\ArrayList_Insert\obj\Debug\ArrayList_Insert.csprojResolveAssemblyReference.cache

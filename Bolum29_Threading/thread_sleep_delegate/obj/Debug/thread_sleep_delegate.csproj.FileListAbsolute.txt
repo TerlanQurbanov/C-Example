@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\bin\Debug\thread_sleep_delegate.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\bin\Debug\thread_sleep_delegate.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\bin\Debug\thread_sleep_delegate.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\obj\Debug\thread_sleep_delegate.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\obj\Debug\thread_sleep_delegate.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\obj\Debug\thread_sleep_delegate.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\obj\Debug\thread_sleep_delegate.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep_delegate\obj\Debug\thread_sleep_delegate.pdb

@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum\bin\Debug\implicit(kapalı)_donusum.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum\bin\Debug\implicit(kapalı)_donusum.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum\bin\Debug\implicit(kapalı)_donusum.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum\obj\Debug\implicit(kapalı)_donusum.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum\obj\Debug\implicit(kapalı)_donusum.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum\obj\Debug\implicit(kapalı)_donusum.pdb

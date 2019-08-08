@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\bin\Debug\Degisken_GetType.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\bin\Debug\Degisken_GetType.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\bin\Debug\Degisken_GetType.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\obj\Debug\Degisken_GetType.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\obj\Debug\Degisken_GetType.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\obj\Debug\Degisken_GetType.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\obj\Debug\Degisken_GetType.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\obj\Debug\Degisken_GetType.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_GetType\obj\Debug\Degisken_GetType.pdb

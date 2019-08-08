@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Ucgen\bin\Debug\Sabit_Ucgen.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Ucgen\bin\Debug\Sabit_Ucgen.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Ucgen\bin\Debug\Sabit_Ucgen.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Ucgen\obj\Debug\Sabit_Ucgen.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Ucgen\obj\Debug\Sabit_Ucgen.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_Ucgen\obj\Debug\Sabit_Ucgen.pdb

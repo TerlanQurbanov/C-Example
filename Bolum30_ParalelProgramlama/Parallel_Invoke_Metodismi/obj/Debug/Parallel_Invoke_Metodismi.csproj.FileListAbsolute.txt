@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\bin\Debug\Parallel_Invoke_Metodismi.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\bin\Debug\Parallel_Invoke_Metodismi.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\bin\Debug\Parallel_Invoke_Metodismi.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\obj\Debug\Parallel_Invoke_Metodismi.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\obj\Debug\Parallel_Invoke_Metodismi.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\obj\Debug\Parallel_Invoke_Metodismi.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\obj\Debug\Parallel_Invoke_Metodismi.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_Invoke_Metodismi\obj\Debug\Parallel_Invoke_Metodismi.pdb

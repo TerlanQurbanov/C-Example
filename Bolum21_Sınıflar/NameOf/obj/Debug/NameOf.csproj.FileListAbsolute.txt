@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\NameOf\bin\Debug\NameOf.exe.config
+C:\Users\volkan\Desktop\NameOf\bin\Debug\NameOf.exe
+C:\Users\volkan\Desktop\NameOf\bin\Debug\NameOf.pdb
+C:\Users\volkan\Desktop\NameOf\obj\Debug\NameOf.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\NameOf\obj\Debug\NameOf.exe
+C:\Users\volkan\Desktop\NameOf\obj\Debug\NameOf.pdb

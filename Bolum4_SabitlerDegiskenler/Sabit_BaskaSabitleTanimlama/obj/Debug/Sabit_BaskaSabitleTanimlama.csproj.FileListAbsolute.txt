@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_BaskaSabitleTanimlama\bin\Debug\Sabit_BaskaSabitleTanimlama.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_BaskaSabitleTanimlama\bin\Debug\Sabit_BaskaSabitleTanimlama.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_BaskaSabitleTanimlama\bin\Debug\Sabit_BaskaSabitleTanimlama.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_BaskaSabitleTanimlama\obj\Debug\Sabit_BaskaSabitleTanimlama.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_BaskaSabitleTanimlama\obj\Debug\Sabit_BaskaSabitleTanimlama.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Sabit_BaskaSabitleTanimlama\obj\Debug\Sabit_BaskaSabitleTanimlama.pdb

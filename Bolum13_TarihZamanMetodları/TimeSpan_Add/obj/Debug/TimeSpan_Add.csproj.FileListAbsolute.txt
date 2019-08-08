@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\TimeSpan_Add\bin\Debug\TimeSpan_Add.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\TimeSpan_Add\bin\Debug\TimeSpan_Add.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\TimeSpan_Add\bin\Debug\TimeSpan_Add.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\TimeSpan_Add\obj\Debug\TimeSpan_Add.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum13_TarihZamanMetodları\ornek\TimeSpan_Add\obj\Debug\TimeSpan_Add.pdb

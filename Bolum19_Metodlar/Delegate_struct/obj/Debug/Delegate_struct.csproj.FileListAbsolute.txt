@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\bin\Debug\Delegate_struct.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\bin\Debug\Delegate_struct.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\bin\Debug\Delegate_struct.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\obj\Debug\Delegate_struct.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\obj\Debug\Delegate_struct.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\obj\Debug\Delegate_struct.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\obj\Debug\Delegate_struct.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_struct\obj\Debug\Delegate_struct.pdb

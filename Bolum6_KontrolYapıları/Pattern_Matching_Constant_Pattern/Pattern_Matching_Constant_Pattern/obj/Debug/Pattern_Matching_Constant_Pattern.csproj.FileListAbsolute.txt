@@ -1,0 +1,6 @@
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Constant_Pattern\Pattern_Matching_Constant_Pattern\bin\Debug\Pattern_Matching_Constant_Pattern.exe.config
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Constant_Pattern\Pattern_Matching_Constant_Pattern\bin\Debug\Pattern_Matching_Constant_Pattern.exe
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Constant_Pattern\Pattern_Matching_Constant_Pattern\bin\Debug\Pattern_Matching_Constant_Pattern.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Constant_Pattern\Pattern_Matching_Constant_Pattern\obj\Debug\Pattern_Matching_Constant_Pattern.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Constant_Pattern\Pattern_Matching_Constant_Pattern\obj\Debug\Pattern_Matching_Constant_Pattern.exe
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Constant_Pattern\Pattern_Matching_Constant_Pattern\obj\Debug\Pattern_Matching_Constant_Pattern.pdb

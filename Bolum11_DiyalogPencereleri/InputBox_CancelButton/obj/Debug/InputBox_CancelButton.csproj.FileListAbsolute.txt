@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\InputBox_CancelButton\bin\Debug\InputBox_CancelButton.exe.config

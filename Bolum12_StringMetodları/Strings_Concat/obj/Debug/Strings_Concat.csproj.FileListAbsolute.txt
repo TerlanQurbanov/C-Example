@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Concat\bin\Debug\Strings_Concat.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Concat\bin\Debug\Strings_Concat.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Concat\bin\Debug\Strings_Concat.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Concat\obj\Debug\Strings_Concat.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Concat\obj\Debug\Strings_Concat.pdb

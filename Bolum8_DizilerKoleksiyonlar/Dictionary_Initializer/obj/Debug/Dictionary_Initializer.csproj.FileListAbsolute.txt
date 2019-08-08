@@ -1,0 +1,6 @@
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Initializer\bin\Debug\Dictionary_Initializer.exe.config
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Initializer\bin\Debug\Dictionary_Initializer.exe
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Initializer\bin\Debug\Dictionary_Initializer.pdb
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Initializer\obj\Debug\Dictionary_Initializer.csprojResolveAssemblyReference.cache
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Initializer\obj\Debug\Dictionary_Initializer.exe
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Initializer\obj\Debug\Dictionary_Initializer.pdb

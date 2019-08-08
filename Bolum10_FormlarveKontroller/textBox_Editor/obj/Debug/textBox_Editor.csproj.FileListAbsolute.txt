@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\bin\Debug\textBox_Editor.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\bin\Debug\textBox_Editor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\bin\Debug\textBox_Editor.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\obj\Debug\textBox_Editor.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\obj\Debug\textBox_Editor.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\obj\Debug\textBox_Editor.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\obj\Debug\textBox_Editor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_Editor\obj\Debug\textBox_Editor.pdb

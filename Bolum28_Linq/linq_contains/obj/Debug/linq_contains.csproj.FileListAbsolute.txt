@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_contains\bin\Debug\linq_contains.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_contains\bin\Debug\linq_contains.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_contains\bin\Debug\linq_contains.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_contains\obj\Debug\linq_contains.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum27_Linq\ornek\linq_contains\obj\Debug\linq_contains.pdb

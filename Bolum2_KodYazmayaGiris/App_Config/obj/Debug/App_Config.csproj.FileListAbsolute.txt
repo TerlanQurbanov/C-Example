@@ -1,0 +1,9 @@
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\bin\Debug\App_Config.exe.config
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\bin\Debug\App_Config.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\bin\Debug\App_Config.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\obj\Debug\App_Config.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\obj\Debug\App_Config.Form1.resources
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\obj\Debug\App_Config.Properties.Resources.resources
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\obj\Debug\App_Config.csproj.GenerateResource.Cache
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\obj\Debug\App_Config.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\App_Config\obj\Debug\App_Config.pdb

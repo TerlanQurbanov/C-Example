@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\bin\Debug\Set_Value.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\bin\Debug\Set_Value.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\bin\Debug\Set_Value.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\obj\Debug\Set_Value.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\obj\Debug\Set_Value.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\obj\Debug\Set_Value.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\obj\Debug\Set_Value.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum22_Registry\ornek\Set_Value\obj\Debug\Set_Value.pdb

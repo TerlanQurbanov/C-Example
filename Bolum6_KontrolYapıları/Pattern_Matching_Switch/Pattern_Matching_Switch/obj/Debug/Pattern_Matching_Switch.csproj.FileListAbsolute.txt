@@ -1,0 +1,12 @@
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Switch\Pattern_Matching_Switch\bin\Debug\Pattern_Matching_Switch.exe.config
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Switch\Pattern_Matching_Switch\bin\Debug\Pattern_Matching_Switch.exe
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Switch\Pattern_Matching_Switch\bin\Debug\Pattern_Matching_Switch.pdb
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Switch\Pattern_Matching_Switch\obj\Debug\Pattern_Matching_Switch.csprojResolveAssemblyReference.cache
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Switch\Pattern_Matching_Switch\obj\Debug\Pattern_Matching_Switch.exe
+c:\users\volkan\documents\visual studio 2017\Projects\Pattern_Matching_Switch\Pattern_Matching_Switch\obj\Debug\Pattern_Matching_Switch.pdb
+C:\Users\volkan\Desktop\usbyedek\C#7\Bolum6_KontrolYapıları\ornek\Pattern_Matching_Switch\Pattern_Matching_Switch\bin\Debug\Pattern_Matching_Switch.exe.config
+C:\Users\volkan\Desktop\usbyedek\C#7\Bolum6_KontrolYapıları\ornek\Pattern_Matching_Switch\Pattern_Matching_Switch\bin\Debug\Pattern_Matching_Switch.exe
+C:\Users\volkan\Desktop\usbyedek\C#7\Bolum6_KontrolYapıları\ornek\Pattern_Matching_Switch\Pattern_Matching_Switch\bin\Debug\Pattern_Matching_Switch.pdb
+C:\Users\volkan\Desktop\usbyedek\C#7\Bolum6_KontrolYapıları\ornek\Pattern_Matching_Switch\Pattern_Matching_Switch\obj\Debug\Pattern_Matching_Switch.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\usbyedek\C#7\Bolum6_KontrolYapıları\ornek\Pattern_Matching_Switch\Pattern_Matching_Switch\obj\Debug\Pattern_Matching_Switch.exe
+C:\Users\volkan\Desktop\usbyedek\C#7\Bolum6_KontrolYapıları\ornek\Pattern_Matching_Switch\Pattern_Matching_Switch\obj\Debug\Pattern_Matching_Switch.pdb

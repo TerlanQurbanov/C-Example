@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\bin\Debug\textBox_AppendText.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\bin\Debug\textBox_AppendText.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\bin\Debug\textBox_AppendText.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\obj\Debug\textBox_AppendText.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\obj\Debug\textBox_AppendText.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\obj\Debug\textBox_AppendText.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\obj\Debug\textBox_AppendText.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\textBox_AppendText\obj\Debug\textBox_AppendText.pdb

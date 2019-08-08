@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\bin\Debug\File_WriteAll.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\bin\Debug\File_WriteAll.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\bin\Debug\File_WriteAll.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\obj\Debug\File_WriteAll.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\obj\Debug\File_WriteAll.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\obj\Debug\File_WriteAll.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\obj\Debug\File_WriteAll.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\File_WriteAll\obj\Debug\File_WriteAll.pdb

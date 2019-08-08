@@ -1,0 +1,12 @@
+C:\Users\volkan\Desktop\ornekler\Primary_Constructor\Primary_Constructor\bin\Debug\Primary_Constructor.exe.config
+C:\Users\volkan\Desktop\ornekler\Primary_Constructor\Primary_Constructor\bin\Debug\Primary_Constructor.exe
+C:\Users\volkan\Desktop\ornekler\Primary_Constructor\Primary_Constructor\bin\Debug\Primary_Constructor.pdb
+C:\Users\volkan\Desktop\ornekler\Primary_Constructor\Primary_Constructor\obj\Debug\Primary_Constructor.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\ornekler\Primary_Constructor\Primary_Constructor\obj\Debug\Primary_Constructor.exe
+C:\Users\volkan\Desktop\ornekler\Primary_Constructor\Primary_Constructor\obj\Debug\Primary_Constructor.pdb
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\Primary_Constructor\Primary_Constructor\bin\Debug\Primary_Constructor.exe.config
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\Primary_Constructor\Primary_Constructor\obj\Debug\Primary_Constructor.exe
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\Primary_Constructor\Primary_Constructor\obj\Debug\Primary_Constructor.pdb
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\Primary_Constructor\Primary_Constructor\bin\Debug\Primary_Constructor.exe
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\Primary_Constructor\Primary_Constructor\bin\Debug\Primary_Constructor.pdb
+D:\kitaplar\c#\C#6\Bolum21_Sınıflar\ornek\Primary_Constructor\Primary_Constructor\obj\Debug\Primary_Constructor.csprojResolveAssemblyReference.cache

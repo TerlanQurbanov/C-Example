@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_iciceFor\bin\Debug\Parallel_iciceFor.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_iciceFor\bin\Debug\Parallel_iciceFor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_iciceFor\bin\Debug\Parallel_iciceFor.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_iciceFor\obj\Debug\Parallel_iciceFor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_iciceFor\obj\Debug\Parallel_iciceFor.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum30_ParalelProgramlama\Parallel_iciceFor\bin\Debug\Parallel_iciceFor.exe.config
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum30_ParalelProgramlama\Parallel_iciceFor\obj\Debug\Parallel_iciceFor.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum30_ParalelProgramlama\Parallel_iciceFor\obj\Debug\Parallel_iciceFor.pdb

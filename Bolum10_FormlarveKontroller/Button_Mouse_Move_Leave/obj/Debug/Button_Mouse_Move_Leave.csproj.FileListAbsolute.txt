@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\bin\Debug\Button_Mouse_Move_Leave.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\bin\Debug\Button_Mouse_Move_Leave.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\bin\Debug\Button_Mouse_Move_Leave.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\obj\Debug\Button_Mouse_Move_Leave.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\obj\Debug\Button_Mouse_Move_Leave.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\obj\Debug\Button_Mouse_Move_Leave.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\obj\Debug\Button_Mouse_Move_Leave.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Button_Mouse_Move_Leave\obj\Debug\Button_Mouse_Move_Leave.pdb

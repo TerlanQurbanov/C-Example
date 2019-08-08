@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\bin\Debug\word_yazi_ekleme_sentences.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\bin\Debug\word_yazi_ekleme_sentences.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\bin\Debug\word_yazi_ekleme_sentences.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\obj\Debug\word_yazi_ekleme_sentences.csproj.ResolveComReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\obj\Debug\word_yazi_ekleme_sentences.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\obj\Debug\word_yazi_ekleme_sentences.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\obj\Debug\word_yazi_ekleme_sentences.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\obj\Debug\word_yazi_ekleme_sentences.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum23_Word_Excel\ornek\word_yazi_ekleme_sentences\obj\Debug\word_yazi_ekleme_sentences.pdb

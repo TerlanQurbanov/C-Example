@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\bin\Debug\Stream_Writer.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\bin\Debug\Stream_Writer.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\bin\Debug\Stream_Writer.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\obj\Debug\Stream_Writer.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\obj\Debug\Stream_Writer.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\obj\Debug\Stream_Writer.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\obj\Debug\Stream_Writer.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\obj\Debug\Stream_Writer.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Stream_Writer\obj\Debug\Stream_Writer.csprojResolveAssemblyReference.cache

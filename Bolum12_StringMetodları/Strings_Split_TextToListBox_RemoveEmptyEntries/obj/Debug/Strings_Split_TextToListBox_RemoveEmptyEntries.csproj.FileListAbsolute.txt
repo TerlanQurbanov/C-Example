@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\bin\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\obj\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\obj\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\obj\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\bin\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\bin\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\obj\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Split_TextToListBox_RemoveEmptyEntries\obj\Debug\Strings_Split_TextToListBox_RemoveEmptyEntries.pdb

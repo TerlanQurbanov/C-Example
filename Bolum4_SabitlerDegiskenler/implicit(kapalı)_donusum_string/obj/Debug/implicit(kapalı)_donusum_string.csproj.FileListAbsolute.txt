@@ -1,0 +1,5 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum_string\bin\Debug\implicit(kapalı)_donusum_string.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum_string\bin\Debug\implicit(kapalı)_donusum_string.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum_string\bin\Debug\implicit(kapalı)_donusum_string.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum_string\obj\Debug\implicit(kapalı)_donusum_string.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\implicit(kapalı)_donusum_string\obj\Debug\implicit(kapalı)_donusum_string.pdb

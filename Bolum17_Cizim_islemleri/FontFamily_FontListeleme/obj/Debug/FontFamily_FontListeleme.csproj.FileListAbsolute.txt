@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\bin\Debug\FontFamily_FontListeleme.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\bin\Debug\FontFamily_FontListeleme.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\bin\Debug\FontFamily_FontListeleme.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\obj\Debug\FontFamily_FontListeleme.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\obj\Debug\FontFamily_FontListeleme.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\obj\Debug\FontFamily_FontListeleme.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\obj\Debug\FontFamily_FontListeleme.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\FontFamily_FontListeleme\obj\Debug\FontFamily_FontListeleme.pdb

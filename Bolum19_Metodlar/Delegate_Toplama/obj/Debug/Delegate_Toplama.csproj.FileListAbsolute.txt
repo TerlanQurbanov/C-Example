@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\bin\Debug\Delegate_Toplama.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\bin\Debug\Delegate_Toplama.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\bin\Debug\Delegate_Toplama.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\obj\Debug\Delegate_Toplama.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\obj\Debug\Delegate_Toplama.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\obj\Debug\Delegate_Toplama.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\obj\Debug\Delegate_Toplama.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\ornek\Delegate_Toplama\obj\Debug\Delegate_Toplama.pdb

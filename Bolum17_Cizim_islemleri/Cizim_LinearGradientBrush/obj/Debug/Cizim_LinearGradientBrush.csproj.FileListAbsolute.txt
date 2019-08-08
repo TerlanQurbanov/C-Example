@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\bin\Debug\Cizim_LinearGradientBrush.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\bin\Debug\Cizim_LinearGradientBrush.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\bin\Debug\Cizim_LinearGradientBrush.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\obj\Debug\Cizim_LinearGradientBrush.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\obj\Debug\Cizim_LinearGradientBrush.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\obj\Debug\Cizim_LinearGradientBrush.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\obj\Debug\Cizim_LinearGradientBrush.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\Cizim_LinearGradientBrush\obj\Debug\Cizim_LinearGradientBrush.pdb

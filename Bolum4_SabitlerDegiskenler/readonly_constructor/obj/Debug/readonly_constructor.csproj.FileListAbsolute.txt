@@ -1,0 +1,8 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\readonly_constructor\bin\Debug\readonly_constructor.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\readonly_constructor\bin\Debug\readonly_constructor.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\readonly_constructor\bin\Debug\readonly_constructor.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\readonly_constructor\obj\Debug\readonly_constructor.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\readonly_constructor\obj\Debug\readonly_constructor.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum4_SabitlerDegiskenler\ornek\readonly_constructor\bin\Debug\readonly_constructor.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum4_SabitlerDegiskenler\ornek\readonly_constructor\obj\Debug\readonly_constructor.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum4_SabitlerDegiskenler\ornek\readonly_constructor\obj\Debug\readonly_constructor.pdb

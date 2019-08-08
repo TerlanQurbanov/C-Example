@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum24_İsletimSistemiKaynaklarınaErisim\ornek\Api_SystemParametersInfo\bin\Debug\Api_SystemParametersInfo.exe.config

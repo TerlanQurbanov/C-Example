@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\bin\Debug\Form_KeyDown.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\bin\Debug\Form_KeyDown.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\bin\Debug\Form_KeyDown.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\obj\Debug\Form_KeyDown.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\obj\Debug\Form_KeyDown.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\obj\Debug\Form_KeyDown.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\obj\Debug\Form_KeyDown.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\Form_KeyDown\obj\Debug\Form_KeyDown.pdb

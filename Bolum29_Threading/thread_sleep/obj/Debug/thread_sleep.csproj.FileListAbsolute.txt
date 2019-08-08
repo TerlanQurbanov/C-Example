@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\bin\Debug\thread_sleep.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\bin\Debug\thread_sleep.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\bin\Debug\thread_sleep.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\obj\Debug\thread_sleep.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\obj\Debug\thread_sleep.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\obj\Debug\thread_sleep.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\obj\Debug\thread_sleep.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum28_ThreadingveAsenkronMetodlar\ornek\thread_sleep\obj\Debug\thread_sleep.pdb

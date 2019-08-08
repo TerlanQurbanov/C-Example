@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Reverse\ArrayList_Reverse\bin\Debug\ArrayList_Reverse.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Reverse\ArrayList_Reverse\bin\Debug\ArrayList_Reverse.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Reverse\ArrayList_Reverse\bin\Debug\ArrayList_Reverse.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Reverse\ArrayList_Reverse\obj\Debug\ArrayList_Reverse.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Reverse\ArrayList_Reverse\obj\Debug\ArrayList_Reverse.pdb

@@ -1,0 +1,8 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\bin\Debug\switch_gotocase_not.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\bin\Debug\switch_gotocase_not.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\bin\Debug\switch_gotocase_not.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\obj\Debug\switch_gotocase_not.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\obj\Debug\switch_gotocase_not.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\obj\Debug\switch_gotocase_not.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\obj\Debug\switch_gotocase_not.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_gotocase_not\obj\Debug\switch_gotocase_not.pdb

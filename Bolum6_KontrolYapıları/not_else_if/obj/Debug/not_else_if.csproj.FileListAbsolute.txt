@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\bin\Debug\not_else_if.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\bin\Debug\not_else_if.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\bin\Debug\not_else_if.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\obj\Debug\not_else_if.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\obj\Debug\not_else_if.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\obj\Debug\not_else_if.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\obj\Debug\not_else_if.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\obj\Debug\not_else_if.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\not_else_if\obj\Debug\not_else_if.pdb

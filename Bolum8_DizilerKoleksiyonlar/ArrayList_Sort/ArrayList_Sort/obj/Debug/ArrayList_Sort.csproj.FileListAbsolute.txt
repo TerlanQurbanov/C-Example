@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\bin\Debug\ArrayList_Sort.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\bin\Debug\ArrayList_Sort.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\bin\Debug\ArrayList_Sort.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\obj\Debug\ArrayList_Sort.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\obj\Debug\ArrayList_Sort.pdb
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\bin\Debug\ArrayList_Sort.exe.config
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\obj\Debug\ArrayList_Sort.exe
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\ArrayList_Sort\ArrayList_Sort\obj\Debug\ArrayList_Sort.pdb

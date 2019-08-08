@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\bin\Debug\MessageBox_Stil.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\bin\Debug\MessageBox_Stil.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\bin\Debug\MessageBox_Stil.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\obj\Debug\MessageBox_Stil.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\obj\Debug\MessageBox_Stil.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\obj\Debug\MessageBox_Stil.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\obj\Debug\MessageBox_Stil.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\obj\Debug\MessageBox_Stil.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\MessageBox_Stil\obj\Debug\MessageBox_Stil.pdb

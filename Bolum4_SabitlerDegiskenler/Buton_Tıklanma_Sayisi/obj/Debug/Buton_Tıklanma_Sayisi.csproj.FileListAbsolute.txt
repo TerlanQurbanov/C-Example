@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\bin\Debug\Buton_Tıklanma_Sayisi.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\bin\Debug\Buton_Tıklanma_Sayisi.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\bin\Debug\Buton_Tıklanma_Sayisi.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\obj\Debug\Buton_Tıklanma_Sayisi.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\obj\Debug\Buton_Tıklanma_Sayisi.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\obj\Debug\Buton_Tıklanma_Sayisi.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\obj\Debug\Buton_Tıklanma_Sayisi.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\obj\Debug\Buton_Tıklanma_Sayisi.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Buton_Tıklanma_Sayisi\obj\Debug\Buton_Tıklanma_Sayisi.pdb

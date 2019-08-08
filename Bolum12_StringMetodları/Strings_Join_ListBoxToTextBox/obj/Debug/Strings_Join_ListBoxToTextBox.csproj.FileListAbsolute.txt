@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\bin\Debug\Strings_Join_ListBoxToTextBox.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\bin\Debug\Strings_Join_ListBoxToTextBox.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\bin\Debug\Strings_Join_ListBoxToTextBox.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\obj\Debug\Strings_Join_ListBoxToTextBox.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\obj\Debug\Strings_Join_ListBoxToTextBox.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\obj\Debug\Strings_Join_ListBoxToTextBox.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\obj\Debug\Strings_Join_ListBoxToTextBox.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\obj\Debug\Strings_Join_ListBoxToTextBox.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_Join_ListBoxToTextBox\obj\Debug\Strings_Join_ListBoxToTextBox.pdb

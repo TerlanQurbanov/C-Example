@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\bin\Debug\Directory_GetFiles.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\bin\Debug\Directory_GetFiles.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\bin\Debug\Directory_GetFiles.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\obj\Debug\Directory_GetFiles.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\obj\Debug\Directory_GetFiles.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\obj\Debug\Directory_GetFiles.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\obj\Debug\Directory_GetFiles.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\obj\Debug\Directory_GetFiles.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum25_DosyaveKlasorislemleri\ornek\Directory_GetFiles\obj\Debug\Directory_GetFiles.csprojResolveAssemblyReference.cache

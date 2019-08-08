@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum17_Yazdırma_İslemleri\ornek\textBox_PrintToFile\bin\Debug\textBox_PrintToFile.exe.config

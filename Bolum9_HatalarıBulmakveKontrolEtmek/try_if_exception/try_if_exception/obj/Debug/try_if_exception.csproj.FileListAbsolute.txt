@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\ornekler\try_if_exception\try_if_exception\bin\Debug\try_if_exception.exe.config
+C:\Users\volkan\Desktop\ornekler\try_if_exception\try_if_exception\bin\Debug\try_if_exception.exe
+C:\Users\volkan\Desktop\ornekler\try_if_exception\try_if_exception\bin\Debug\try_if_exception.pdb
+C:\Users\volkan\Desktop\ornekler\try_if_exception\try_if_exception\obj\Debug\try_if_exception.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\ornekler\try_if_exception\try_if_exception\obj\Debug\try_if_exception.exe
+C:\Users\volkan\Desktop\ornekler\try_if_exception\try_if_exception\obj\Debug\try_if_exception.pdb

@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\bin\Debug\helpProvider_SetHelpString.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\bin\Debug\helpProvider_SetHelpString.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\bin\Debug\helpProvider_SetHelpString.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\obj\Debug\helpProvider_SetHelpString.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\obj\Debug\helpProvider_SetHelpString.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\obj\Debug\helpProvider_SetHelpString.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\obj\Debug\helpProvider_SetHelpString.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\helpProvider_SetHelpString\obj\Debug\helpProvider_SetHelpString.pdb

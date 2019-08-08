@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\Extension_Method_ToUpper_Overloading\bin\Debug\Extension_Method_ToUpper_Overloading.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\Extension_Method_ToUpper_Overloading\bin\Debug\Extension_Method_ToUpper_Overloading.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\Extension_Method_ToUpper_Overloading\bin\Debug\Extension_Method_ToUpper_Overloading.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\Extension_Method_ToUpper_Overloading\obj\Debug\Extension_Method_ToUpper_Overloading.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum19_Genisletme_Metodları\ornek\Extension_Method_ToUpper_Overloading\obj\Debug\Extension_Method_ToUpper_Overloading.pdb

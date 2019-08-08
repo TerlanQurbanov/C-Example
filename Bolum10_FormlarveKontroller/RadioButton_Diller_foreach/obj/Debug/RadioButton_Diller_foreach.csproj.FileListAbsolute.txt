@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\bin\Debug\RadioButton_Diller_foreach.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\bin\Debug\RadioButton_Diller_foreach.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\bin\Debug\RadioButton_Diller_foreach.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\obj\Debug\RadioButton_Diller_foreach.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\obj\Debug\RadioButton_Diller_foreach.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\obj\Debug\RadioButton_Diller_foreach.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\obj\Debug\RadioButton_Diller_foreach.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\RadioButton_Diller_foreach\obj\Debug\RadioButton_Diller_foreach.pdb

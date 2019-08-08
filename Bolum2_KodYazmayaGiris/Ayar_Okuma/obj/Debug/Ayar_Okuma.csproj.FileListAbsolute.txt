@@ -1,0 +1,9 @@
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\bin\Debug\Ayar_Okuma.exe.config
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\bin\Debug\Ayar_Okuma.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\bin\Debug\Ayar_Okuma.pdb
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\obj\Debug\Ayar_Okuma.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\obj\Debug\Ayar_Okuma.Form1.resources
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\obj\Debug\Ayar_Okuma.Properties.Resources.resources
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\obj\Debug\Ayar_Okuma.csproj.GenerateResource.Cache
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\obj\Debug\Ayar_Okuma.exe
+C:\Users\Comp\Desktop\CSharp7_Ornekler\Bolum2_KodYazmayaGiris\Ayar_Okuma\obj\Debug\Ayar_Okuma.pdb

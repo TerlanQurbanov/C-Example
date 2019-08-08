@@ -1,0 +1,5 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\object_dynamic\bin\Debug\object_dynamic.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\object_dynamic\bin\Debug\object_dynamic.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\object_dynamic\bin\Debug\object_dynamic.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\object_dynamic\obj\Debug\object_dynamic.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\object_dynamic\obj\Debug\object_dynamic.pdb

@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\bin\Debug\Dictionary_Linq.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\bin\Debug\Dictionary_Linq.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\bin\Debug\Dictionary_Linq.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\obj\Debug\Dictionary_Linq.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\obj\Debug\Dictionary_Linq.pdb
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\bin\Debug\Dictionary_Linq.exe.config
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\obj\Debug\Dictionary_Linq.exe
+D:\kitaplar\c#\C#6\Bolum8_DizilerKoleksiyonlar\ornek\Dictionary_Linq\Dictionary_Linq\obj\Debug\Dictionary_Linq.pdb

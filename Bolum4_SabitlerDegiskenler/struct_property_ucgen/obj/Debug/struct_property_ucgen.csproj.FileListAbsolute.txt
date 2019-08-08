@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\struct_property_ucgen\bin\Debug\struct_property_ucgen.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\struct_property_ucgen\bin\Debug\struct_property_ucgen.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\struct_property_ucgen\bin\Debug\struct_property_ucgen.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\struct_property_ucgen\obj\Debug\struct_property_ucgen.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\struct_property_ucgen\obj\Debug\struct_property_ucgen.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\struct_property_ucgen\obj\Debug\struct_property_ucgen.pdb

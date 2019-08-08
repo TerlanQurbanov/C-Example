@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\INotifyPropertyChanged_Interface\bin\Debug\INotifyPropertyChanged_Interface.exe.config
+C:\Users\volkan\Desktop\INotifyPropertyChanged_Interface\bin\Debug\INotifyPropertyChanged_Interface.exe
+C:\Users\volkan\Desktop\INotifyPropertyChanged_Interface\bin\Debug\INotifyPropertyChanged_Interface.pdb
+C:\Users\volkan\Desktop\INotifyPropertyChanged_Interface\obj\Debug\INotifyPropertyChanged_Interface.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\INotifyPropertyChanged_Interface\obj\Debug\INotifyPropertyChanged_Interface.exe
+C:\Users\volkan\Desktop\INotifyPropertyChanged_Interface\obj\Debug\INotifyPropertyChanged_Interface.pdb

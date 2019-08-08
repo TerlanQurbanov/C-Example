@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\bin\Debug\timer_kontrolu_saat.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\bin\Debug\timer_kontrolu_saat.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\bin\Debug\timer_kontrolu_saat.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\obj\Debug\timer_kontrolu_saat.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\obj\Debug\timer_kontrolu_saat.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\obj\Debug\timer_kontrolu_saat.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\obj\Debug\timer_kontrolu_saat.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\timer_kontrolu_saat\obj\Debug\timer_kontrolu_saat.pdb

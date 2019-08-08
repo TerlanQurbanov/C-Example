@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_TekCift\bin\Debug\if_TekCift.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_TekCift\bin\Debug\if_TekCift.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_TekCift\bin\Debug\if_TekCift.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_TekCift\obj\Debug\if_TekCift.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_TekCift\obj\Debug\if_TekCift.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_TekCift\obj\Debug\if_TekCift.pdb

@@ -1,0 +1,8 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\bin\Debug\switch_renk.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\bin\Debug\switch_renk.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\bin\Debug\switch_renk.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\obj\Debug\switch_renk.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\obj\Debug\switch_renk.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\obj\Debug\switch_renk.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\obj\Debug\switch_renk.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\switch_renk\obj\Debug\switch_renk.pdb

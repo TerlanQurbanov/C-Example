@@ -1,0 +1,95 @@
+﻿namespace Strings_IndexOf_1
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtAranacakMetin = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.btnAra = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 12);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(85, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Aranacak Metin:";
+            // 
+            // txtAranacakMetin
+            // 
+            this.txtAranacakMetin.Location = new System.Drawing.Point(100, 9);
+            this.txtAranacakMetin.Name = "txtAranacakMetin";
+            this.txtAranacakMetin.Size = new System.Drawing.Size(128, 20);
+            this.txtAranacakMetin.TabIndex = 1;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(15, 50);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(213, 20);
+            this.textBox1.TabIndex = 2;
+            this.textBox1.Text = "C Sharp .NET";
+            // 
+            // btnAra
+            // 
+            this.btnAra.Location = new System.Drawing.Point(87, 89);
+            this.btnAra.Name = "btnAra";
+            this.btnAra.Size = new System.Drawing.Size(75, 23);
+            this.btnAra.TabIndex = 3;
+            this.btnAra.Text = "Ara";
+            this.btnAra.UseVisualStyleBackColor = true;
+            this.btnAra.Click += new System.EventHandler(this.btnAra_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(233, 119);
+            this.Controls.Add(this.btnAra);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtAranacakMetin);
+            this.Controls.Add(this.label1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtAranacakMetin;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button btnAra;
+    }
+}
+

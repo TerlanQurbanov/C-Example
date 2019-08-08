@@ -1,0 +1,1 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum11_DiyalogPencereleri\ornek\InputBox_NotGiris\bin\Debug\InputBox_NotGiris.exe.config

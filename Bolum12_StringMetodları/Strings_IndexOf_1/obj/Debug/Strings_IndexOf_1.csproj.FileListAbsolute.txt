@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\bin\Debug\Strings_IndexOf_1.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\bin\Debug\Strings_IndexOf_1.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\bin\Debug\Strings_IndexOf_1.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\obj\Debug\Strings_IndexOf_1.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\obj\Debug\Strings_IndexOf_1.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\obj\Debug\Strings_IndexOf_1.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\obj\Debug\Strings_IndexOf_1.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum12_StringMetodları\ornek\Strings_IndexOf_1\obj\Debug\Strings_IndexOf_1.pdb

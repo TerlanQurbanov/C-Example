@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\ornekler\constructor_parameter\constructor_parameter\bin\Debug\constructor_parameter.exe.config
+C:\Users\volkan\Desktop\ornekler\constructor_parameter\constructor_parameter\bin\Debug\constructor_parameter.exe
+C:\Users\volkan\Desktop\ornekler\constructor_parameter\constructor_parameter\bin\Debug\constructor_parameter.pdb
+C:\Users\volkan\Desktop\ornekler\constructor_parameter\constructor_parameter\obj\Debug\constructor_parameter.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\ornekler\constructor_parameter\constructor_parameter\obj\Debug\constructor_parameter.exe
+C:\Users\volkan\Desktop\ornekler\constructor_parameter\constructor_parameter\obj\Debug\constructor_parameter.pdb

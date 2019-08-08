@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\bin\Debug\SekilveYazı.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\bin\Debug\SekilveYazı.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\bin\Debug\SekilveYazı.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\obj\Debug\SekilveYazı.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\obj\Debug\SekilveYazı.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\obj\Debug\SekilveYazı.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\obj\Debug\SekilveYazı.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum16_Cizim_islemleri\ornek\SekilveYazı\obj\Debug\SekilveYazı.pdb

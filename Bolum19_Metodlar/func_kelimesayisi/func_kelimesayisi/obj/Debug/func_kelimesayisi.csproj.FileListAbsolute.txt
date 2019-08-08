@@ -1,0 +1,5 @@
+C:\Users\volkan\Desktop\projeler\c#\func_kelimesayisi\func_kelimesayisi\bin\Debug\func_kelimesayisi.exe.config
+C:\Users\volkan\Desktop\projeler\c#\func_kelimesayisi\func_kelimesayisi\bin\Debug\func_kelimesayisi.exe
+C:\Users\volkan\Desktop\projeler\c#\func_kelimesayisi\func_kelimesayisi\bin\Debug\func_kelimesayisi.pdb
+C:\Users\volkan\Desktop\projeler\c#\func_kelimesayisi\func_kelimesayisi\obj\Debug\func_kelimesayisi.exe
+C:\Users\volkan\Desktop\projeler\c#\func_kelimesayisi\func_kelimesayisi\obj\Debug\func_kelimesayisi.pdb

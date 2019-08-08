@@ -1,0 +1,17 @@
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\exception_filters.exe
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\exception_filters.pdb
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\System.Collections.Immutable.dll
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\System.Collections.Immutable.xml
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\obj\x86\Debug\exception_filters.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\obj\x86\Debug\exception_filters.exe
+C:\Users\volkan\Desktop\ornekler\exception_filters\exception_filters\obj\x86\Debug\exception_filters.pdb

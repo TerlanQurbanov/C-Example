@@ -1,0 +1,9 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\bin\Debug\TabControl_ResimListeleme.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\bin\Debug\TabControl_ResimListeleme.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\bin\Debug\TabControl_ResimListeleme.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\obj\Debug\TabControl_ResimListeleme.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\obj\Debug\TabControl_ResimListeleme.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\obj\Debug\TabControl_ResimListeleme.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\obj\Debug\TabControl_ResimListeleme.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\obj\Debug\TabControl_ResimListeleme.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum10_FormlarveKontroller\ornek\TabControl_ResimListeleme\obj\Debug\TabControl_ResimListeleme.csprojResolveAssemblyReference.cache

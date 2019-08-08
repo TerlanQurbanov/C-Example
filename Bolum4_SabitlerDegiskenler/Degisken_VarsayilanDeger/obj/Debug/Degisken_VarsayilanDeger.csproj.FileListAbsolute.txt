@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_VarsayilanDeger\bin\Debug\Degisken_VarsayilanDeger.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_VarsayilanDeger\bin\Debug\Degisken_VarsayilanDeger.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_VarsayilanDeger\bin\Debug\Degisken_VarsayilanDeger.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_VarsayilanDeger\obj\Debug\Degisken_VarsayilanDeger.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_VarsayilanDeger\obj\Debug\Degisken_VarsayilanDeger.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\Degisken_VarsayilanDeger\obj\Debug\Degisken_VarsayilanDeger.pdb
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\Degisken_VarsayilanDeger\bin\Debug\Degisken_VarsayilanDeger.exe.config
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\Degisken_VarsayilanDeger\obj\Debug\Degisken_VarsayilanDeger.exe
+D:\kitaplar\c#\C#6\Bolum4_SabitlerDegiskenler\ornek\Degisken_VarsayilanDeger\obj\Debug\Degisken_VarsayilanDeger.pdb

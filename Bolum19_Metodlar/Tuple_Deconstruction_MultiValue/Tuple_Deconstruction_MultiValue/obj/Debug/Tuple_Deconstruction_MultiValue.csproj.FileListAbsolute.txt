@@ -1,0 +1,7 @@
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\bin\Debug\Tuple_Deconstruction_MultiValue.exe.config
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\bin\Debug\Tuple_Deconstruction_MultiValue.exe
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\bin\Debug\Tuple_Deconstruction_MultiValue.pdb
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\bin\Debug\System.ValueTuple.dll
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\obj\Debug\Tuple_Deconstruction_MultiValue.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\obj\Debug\Tuple_Deconstruction_MultiValue.exe
+C:\Users\volkan\Documents\Visual Studio 2017\Projects\Tuple_Deconstruction_MultiValue\Tuple_Deconstruction_MultiValue\obj\Debug\Tuple_Deconstruction_MultiValue.pdb

@@ -1,0 +1,9 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\bin\Debug\if_sifre.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\bin\Debug\if_sifre.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\bin\Debug\if_sifre.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\obj\Debug\if_sifre.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\obj\Debug\if_sifre.Form1.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\obj\Debug\if_sifre.Properties.Resources.resources
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\obj\Debug\if_sifre.csproj.GenerateResource.Cache
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\obj\Debug\if_sifre.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum6_KontrolYapıları\if_sifre\obj\Debug\if_sifre.pdb

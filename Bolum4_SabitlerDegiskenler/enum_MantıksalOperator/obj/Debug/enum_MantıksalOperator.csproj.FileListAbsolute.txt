@@ -1,0 +1,6 @@
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_MantıksalOperator\bin\Debug\enum_MantıksalOperator.exe.config
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_MantıksalOperator\bin\Debug\enum_MantıksalOperator.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_MantıksalOperator\bin\Debug\enum_MantıksalOperator.pdb
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_MantıksalOperator\obj\Debug\enum_MantıksalOperator.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_MantıksalOperator\obj\Debug\enum_MantıksalOperator.exe
+C:\Users\volkan\Desktop\Ornekler\Bolum4_Sabitler_Degiskenler\enum_MantıksalOperator\obj\Debug\enum_MantıksalOperator.pdb

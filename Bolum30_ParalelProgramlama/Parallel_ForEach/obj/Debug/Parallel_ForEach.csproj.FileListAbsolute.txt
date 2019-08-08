@@ -1,0 +1,5 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_ForEach\bin\Debug\Parallel_ForEach.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_ForEach\bin\Debug\Parallel_ForEach.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_ForEach\bin\Debug\Parallel_ForEach.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_ForEach\obj\Debug\Parallel_ForEach.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum29_ParalelProgramlama\ornek\Parallel_ForEach\obj\Debug\Parallel_ForEach.pdb

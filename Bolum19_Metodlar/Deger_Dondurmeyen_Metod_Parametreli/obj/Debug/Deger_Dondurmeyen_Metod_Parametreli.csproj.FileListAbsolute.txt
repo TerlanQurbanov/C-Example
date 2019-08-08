@@ -1,0 +1,8 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\bin\Debug\Deger_Dondurmeyen_Metod_Parametreli.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\bin\Debug\Deger_Dondurmeyen_Metod_Parametreli.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\bin\Debug\Deger_Dondurmeyen_Metod_Parametreli.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\obj\Debug\Deger_Dondurmeyen_Metod_Parametreli.Form1.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\obj\Debug\Deger_Dondurmeyen_Metod_Parametreli.Properties.Resources.resources
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\obj\Debug\Deger_Dondurmeyen_Metod_Parametreli.csproj.GenerateResource.Cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\obj\Debug\Deger_Dondurmeyen_Metod_Parametreli.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum18_Metodlar\Deger_Dondurmeyen_Metod_Parametreli\obj\Debug\Deger_Dondurmeyen_Metod_Parametreli.pdb

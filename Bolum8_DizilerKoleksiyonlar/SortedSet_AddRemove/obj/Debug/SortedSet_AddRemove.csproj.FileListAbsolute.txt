@@ -1,0 +1,6 @@
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_AddRemove\bin\Debug\SortedSet_AddRemove.exe.config
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_AddRemove\bin\Debug\SortedSet_AddRemove.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_AddRemove\bin\Debug\SortedSet_AddRemove.pdb
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_AddRemove\obj\Debug\SortedSet_AddRemove.csprojResolveAssemblyReference.cache
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_AddRemove\obj\Debug\SortedSet_AddRemove.exe
+E:\kitaplar\c#\C#5\Bölümler\Bolum8_DizilerKoleksiyonlar\ornek\SortedSet_AddRemove\obj\Debug\SortedSet_AddRemove.pdb
